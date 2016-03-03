@@ -1,0 +1,68 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#calculator {
+	width: 280px;
+	height: 420px;
+	margin: 100px auto;
+};
+
+#io {
+	width: 280px;
+	height:70px;
+}
+
+#text {
+	height: 70px;
+	width: 280px;
+	background-color: black;
+	color: white;
+	font-size: 40px;
+	border-width: 0;
+}
+
+#btn{
+	width: 280px;
+	height: 350px;
+}
+
+#num{
+	width: 210px;
+	height: 350px;
+	float: left;
+}
+
+#operator{
+	width: 70px;
+	height: 350px;
+	float: left;
+}
+
+.button{
+	margin:0 -4px;
+	padding: 0;
+	width: 70px;
+	height: 70px;
+	font-size: 27px;
+}
+
+.n{
+	background-color: white;
+}
+
+.d{
+    background-color: #ccc;
+}
+
+.o{
+	background-color: orange;
+	color: white;
+	font-size: 35px;
+}
+
+.n0{
+	width: 140px;
+}
+
